@@ -4,7 +4,7 @@ age=int(input('Enter your age: '))
 if age>=18:
     
     if age>=65:
-        print('You are eligible gor senior voting.')
+        print('You are eligible for senior voting.')
     else:
         print('You are eligible to vote.')
 else:
